@@ -1,0 +1,89 @@
+{
+    "moods": [
+        {
+            "event_cat": "Moods",
+            "event_title": "Angry",
+            "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Moods/mood_angry.png"
+        },
+        {
+            "event_cat": "Moods",
+            "event_title": "Awesome",
+            "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Moods/mood_awesome.png"
+        },
+        {
+            "event_cat": "Moods",
+            "event_title": "Betrayed",
+            "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Moods/mood_betrayed.png"
+        },
+        {
+            "event_cat": "Moods",
+            "event_title": "Concerned",
+            "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Moods/mood_concerned.png"
+        },
+        {
+            "event_cat": "Moods",
+            "event_title": "Disappointed",
+            "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Moods/mood_disappointed.png"
+        },
+        {
+            "event_cat": "Moods",
+            "event_title": "Exhausted",
+            "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Moods/mood_exhausted.png"
+        },
+        {
+            "event_cat": "Moods",
+            "event_title": "Flirty",
+            "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Moods/mood_flirty.png"
+        },
+        {
+            "event_cat": "Moods",
+            "event_title": "Frustrated",
+            "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Moods/mood_frustrated.png"
+        },
+        {
+            "event_cat": "Moods",
+            "event_title": "Happy",
+            "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Moods/mood_happy.png"
+        },
+        {
+            "event_cat": "Moods",
+            "event_title": "Honoured",
+            "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Moods/mood_honoured.png"
+        },
+        {
+            "event_cat": "Moods",
+            "event_title": "Motivated",
+            "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Moods/mood_motivated.png"
+        },
+        {
+            "event_cat": "Moods",
+            "event_title": "Offended",
+            "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Moods/mood_offended.png"
+        },
+        {
+            "event_cat": "Moods",
+            "event_title": "Proud",
+            "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Moods/mood_proud.png"
+        },
+        {
+            "event_cat": "Moods",
+            "event_title": "Relieved",
+            "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Moods/mood_relieved.png"
+        },
+        {
+            "event_cat": "Moods",
+            "event_title": "Sad",
+            "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Moods/mood_sad.png"
+        },
+        {
+            "event_cat": "Moods",
+            "event_title": "Satisfied",
+            "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Moods/mood_satisfied.png"
+        },
+        {
+            "event_cat": "Moods",
+            "event_title": "Tired",
+            "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Moods/mood_tired.png"
+        }
+    ]
+}
