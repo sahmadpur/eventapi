@@ -12,7 +12,7 @@
         },
         {
             "event_cat": "Business&Career",
-            "event_title": "Businessmeeting",
+            "event_title": "Business meeting",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Business%26Career/bc_business_meeting.png"
         },
         {
@@ -22,27 +22,27 @@
         },
         {
             "event_cat": "Business&Career",
-            "event_title": "Firstdayatwork",
+            "event_title": "First day at work",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Business%26Career/bc_first_workday.png"
         },
         {
             "event_cat": "Business&Career",
-            "event_title": "Gotfired",
+            "event_title": "Got fired",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Business%26Career/bc_got_fired.png"
         },
         {
             "event_cat": "Business&Career",
-            "event_title": "Gothired",
+            "event_title": "Got hired",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Business%26Career/bc_got_hired.png"
         },
         {
             "event_cat": "Business&Career",
-            "event_title": "Gotpromotion",
+            "event_title": "Got promotion",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Business%26Career/bc_got_promotion.png"
         },
         {
             "event_cat": "Business&Career",
-            "event_title": "Gotraise",
+            "event_title": "Got raise",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Business%26Career/bc_got_raise.png"
         },
         {
@@ -57,12 +57,12 @@
         },
         {
             "event_cat": "Business&Career",
-            "event_title": "Lastdayatwork",
+            "event_title": "Last day at work",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Business%26Career/bc_last_workday.png"
         },
         {
             "event_cat": "Business&Career",
-            "event_title": "Leftwork",
+            "event_title": "Left work",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Business%26Career/bc_left_work.png"
         },
         {
@@ -72,27 +72,27 @@
         },
         {
             "event_cat": "Business&Career",
-            "event_title": "Startedworking",
+            "event_title": "Started working",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Business%26Career/bc_started_working.png"
         },
         {
             "event_cat": "Content",
-            "event_title": "Moviewatching",
+            "event_title": "Movie watching",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Content/ct_movie.png"
         },
         {
             "event_cat": "Content",
-            "event_title": "Radiotime",
+            "event_title": "Radio time",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Content/ct_radio.png"
         },
         {
             "event_cat": "Content",
-            "event_title": "Showtime",
+            "event_title": "Show time",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Content/ct_show.png"
         },
         {
             "event_cat": "Content",
-            "event_title": "TVtime",
+            "event_title": "TV time",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Content/ct_tv.png"
         },
         {
@@ -102,12 +102,12 @@
         },
         {
             "event_cat": "Education&Training",
-            "event_title": "Firstdayofclasses",
+            "event_title": "First day of classes",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Education%26Training/edu_class_firstday.png"
         },
         {
             "event_cat": "Education&Training",
-            "event_title": "Lastdayofclasses",
+            "event_title": "Last day of classes",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Education%26Training/edu_class_lastday.png"
         },
         {
@@ -117,7 +117,7 @@
         },
         {
             "event_cat": "Education&Training",
-            "event_title": "Finalexam",
+            "event_title": "Final exam",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Education%26Training/edu_final_exam.png"
         },
         {
@@ -142,7 +142,7 @@
         },
         {
             "event_cat": "Entertainment",
-            "event_title": "Boardgames",
+            "event_title": "Board games",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Entertainment/et_board.png"
         },
         {
@@ -162,7 +162,7 @@
         },
         {
             "event_cat": "Entertainment",
-            "event_title": "Nightout",
+            "event_title": "Night out",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Entertainment/et_nightout.png"
         },
         {
@@ -172,12 +172,12 @@
         },
         {
             "event_cat": "Entertainment",
-            "event_title": "Videogames",
+            "event_title": "Video games",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Entertainment/et_videogames.png"
         },
         {
             "event_cat": "Family&Friends",
-            "event_title": "Birthdayparty",
+            "event_title": "Birthday party",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Family%26Friends/ff_bdayparty.png"
         },
         {
@@ -187,12 +187,12 @@
         },
         {
             "event_cat": "Family&Friends",
-            "event_title": "Familytime",
+            "event_title": "Family time",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Family%26Friends/ff_familytime.png"
         },
         {
             "event_cat": "Family&Friends",
-            "event_title": "Kidtime",
+            "event_title": "Kid time",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Family%26Friends/ff_kidtime.png"
         },
         {
@@ -202,7 +202,7 @@
         },
         {
             "event_cat": "Family&Friends",
-            "event_title": "Movienight",
+            "event_title": "Movie night",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Family%26Friends/ff_movienight.png"
         },
         {
@@ -212,7 +212,7 @@
         },
         {
             "event_cat": "Family&Friends",
-            "event_title": "Weddingparty",
+            "event_title": "Wedding party",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Family%26Friends/ff_weedingparty.png"
         },
         {
@@ -232,12 +232,12 @@
         },
         {
             "event_cat": "Food&Drinking",
-            "event_title": "Drinkingtime",
+            "event_title": "Drinking time",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Food%26Drinking/fd_drinkingtime.png"
         },
         {
             "event_cat": "Food&Drinking",
-            "event_title": "Drinkwater",
+            "event_title": "Drink water",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Food%26Drinking/fd_drinkwater.png"
         },
         {
@@ -262,52 +262,52 @@
         },
         {
             "event_cat": "Health&Safety",
-            "event_title": "Doctorvisit",
+            "event_title": "Doctor visit",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Health%26Safety/hs_doctor_visit.png"
         },
         {
             "event_cat": "Health&Safety",
-            "event_title": "Gavebirth",
+            "event_title": "Gave birth",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Health%26Safety/hs_gave_birth.png"
         },
         {
             "event_cat": "Health&Safety",
-            "event_title": "Gotill",
+            "event_title": "Got ill",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Health%26Safety/hs_got_ill.png"
         },
         {
             "event_cat": "Health&Safety",
-            "event_title": "Gotinjured",
+            "event_title": "Got injured",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Health%26Safety/hs_got_injured.png"
         },
         {
             "event_cat": "Health&Safety",
-            "event_title": "Gotweight",
+            "event_title": "Got weight",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Health%26Safety/hs_got_weight.png"
         },
         {
             "event_cat": "Health&Safety",
-            "event_title": "Lostweight",
+            "event_title": "Lost weight",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Health%26Safety/hs_lost_weight.png"
         },
         {
             "event_cat": "Health&Safety",
-            "event_title": "Ovulationend",
+            "event_title": "Ovulation end",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Health%26Safety/hs_ovulation_end.png"
         },
         {
             "event_cat": "Health&Safety",
-            "event_title": "Ovulationstart",
+            "event_title": "Ovulation start",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Health%26Safety/hs_ovulation_start.png"
         },
         {
             "event_cat": "Health&Safety",
-            "event_title": "Gotpregnant",
+            "event_title": "Got pregnant",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Health%26Safety/hs_pregnant.png"
         },
         {
             "event_cat": "Health&Safety",
-            "event_title": "Psychologysession",
+            "event_title": "Psychology session",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Health%26Safety/hs_psychology.png"
         },
         {
@@ -322,32 +322,32 @@
         },
         {
             "event_cat": "Law&Budget",
-            "event_title": "Boughtacar",
+            "event_title": "Bought a car",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Law%26Budget/lb_boughtcar.png"
         },
         {
             "event_cat": "Law&Budget",
-            "event_title": "Gotbroke",
+            "event_title": "Got broke",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Law%26Budget/lb_got_broke.png"
         },
         {
             "event_cat": "Law&Budget",
-            "event_title": "Gotfined",
+            "event_title": "Got fined",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Law%26Budget/lb_got_fined.png"
         },
         {
             "event_cat": "Law&Budget",
-            "event_title": "Gotloan",
+            "event_title": "Got loan",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Law%26Budget/lb_got_loan.png"
         },
         {
             "event_cat": "Law&Budget",
-            "event_title": "Lendmoney",
+            "event_title": "Lend money",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Law%26Budget/lb_lendmoney.png"
         },
         {
             "event_cat": "Law&Budget",
-            "event_title": "Paidoutdebt",
+            "event_title": "Paid out debt",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Law%26Budget/lb_paiddebt.png"
         },
         {
@@ -367,7 +367,7 @@
         },
         {
             "event_cat": "Pets",
-            "event_title": "Dogwalking",
+            "event_title": "Dog walking",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Pets/pt_dogwalking.png"
         },
         {
@@ -377,7 +377,7 @@
         },
         {
             "event_cat": "Relationship",
-            "event_title": "Brokeup",
+            "event_title": "Broke up",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Relationship/rs_brokeup.png"
         },
         {
@@ -392,32 +392,32 @@
         },
         {
             "event_cat": "Relationship",
-            "event_title": "Fellinlove",
+            "event_title": "Fell in love",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Relationship/rs_fellinlove.png"
         },
         {
             "event_cat": "Relationship",
-            "event_title": "Gotintofight",
+            "event_title": "Got into fight",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Relationship/rs_fight.png"
         },
         {
             "event_cat": "Relationship",
-            "event_title": "Firstkiss",
+            "event_title": "First kiss",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Relationship/rs_first_kiss.png"
         },
         {
             "event_cat": "Relationship",
-            "event_title": "Gotfriendswith…",
+            "event_title": "Got friends with…",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Relationship/rs_gotfriends.png"
         },
         {
             "event_cat": "Relationship",
-            "event_title": "Gotinarelationship",
+            "event_title": "Got in a relationship",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Relationship/rs_got_relationship.png"
         },
         {
             "event_cat": "Relationship",
-            "event_title": "Gotpraised",
+            "event_title": "Got praised",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Relationship/rs_praised.png"
         },
         {
@@ -427,7 +427,7 @@
         },
         {
             "event_cat": "Relationship",
-            "event_title": "Gotscolded",
+            "event_title": "Got scolded",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Relationship/rs_scolded.png"
         },
         {
@@ -442,17 +442,17 @@
         },
         {
             "event_cat": "Routine",
-            "event_title": "Repairend",
+            "event_title": "Repair end",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Routine/rt_repair_end.png"
         },
         {
             "event_cat": "Routine",
-            "event_title": "Repairstart",
+            "event_title": "Repair start",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Routine/rt_repair_start.png"
         },
         {
             "event_cat": "Self improvement",
-            "event_title": "Booklistening",
+            "event_title": "Book listening",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Self%20improvement/si_book_listening.png"
         },
         {
@@ -462,12 +462,12 @@
         },
         {
             "event_cat": "Self improvement",
-            "event_title": "Finishedreading",
+            "event_title": "Finished reading",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Self%20improvement/si_finished_reading.png"
         },
         {
             "event_cat": "Self improvement",
-            "event_title": "Noteforfuture",
+            "event_title": "Note for future",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Self%20improvement/si_future_note.png"
         },
         {
@@ -477,12 +477,12 @@
         },
         {
             "event_cat": "Self improvement",
-            "event_title": "Lazytime",
+            "event_title": "Lazy time",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Self%20improvement/si_lazytime.png"
         },
         {
             "event_cat": "Self improvement",
-            "event_title": "Lessonslearned",
+            "event_title": "Lessons learned",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Self%20improvement/si_lessons_learned.png"
         },
         {
@@ -492,7 +492,7 @@
         },
         {
             "event_cat": "Self improvement",
-            "event_title": "Musiclistening",
+            "event_title": "Music listening",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Self%20improvement/si_music_listening.png"
         },
         {
@@ -502,12 +502,12 @@
         },
         {
             "event_cat": "Self improvement",
-            "event_title": "Gavespeech",
+            "event_title": "Gave speech",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Self%20improvement/si_speech.png"
         },
         {
             "event_cat": "Self improvement",
-            "event_title": "Startedreading",
+            "event_title": "Started reading",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Self%20improvement/si_started_reading.png"
         },
         {
@@ -517,17 +517,17 @@
         },
         {
             "event_cat": "Self improvement",
-            "event_title": "Wroteabook",
+            "event_title": "Wrote a book",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Self%20improvement/si_wrote_book.png"
         },
         {
             "event_cat": "Special moments",
-            "event_title": "Wenttoarmy",
+            "event_title": "Went to army",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Special%20moments/sm_army.png"
         },
         {
             "event_cat": "Special moments",
-            "event_title": "Camefromarmy",
+            "event_title": "Came from army",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Special%20moments/sm_back_from_army.png"
         },
         {
@@ -567,12 +567,12 @@
         },
         {
             "event_cat": "Special moments",
-            "event_title": "Passedaway",
+            "event_title": "Passed away",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Special%20moments/sm_passed_away.png"
         },
         {
             "event_cat": "Special moments",
-            "event_title": "Took…place",
+            "event_title": "Took … place",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Special%20moments/sm_tookplace.png"
         },
         {
@@ -642,7 +642,7 @@
         },
         {
             "event_cat": "Sports",
-            "event_title": "Horseriding",
+            "event_title": "Horse riding",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Sports/sports_horse_riding.png"
         },
         {
@@ -657,7 +657,7 @@
         },
         {
             "event_cat": "Sports",
-            "event_title": "Martialarts",
+            "event_title": "Martial arts",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Sports/sports_martial_arts.png"
         },
         {
@@ -702,17 +702,17 @@
         },
         {
             "event_cat": "Travel",
-            "event_title": "Tripended",
+            "event_title": "Trip ended",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Travel/tl_tripend.png"
         },
         {
             "event_cat": "Travel",
-            "event_title": "Tripstarted",
+            "event_title": "Trip started",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Travel/tl_tripstart.png"
         },
         {
             "event_cat": "Travel",
-            "event_title": "Wasin",
+            "event_title": "Was in ..",
             "event_icon_url": "https://cdn.statically.io/gh/sahmadpur/iconslabs_png/main/Travel/tl_wasin.png"
         }
     ]
